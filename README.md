@@ -6,3 +6,4 @@ This repository contains:
   2. Dataset used for the project
   3. IBM Deployment
   4. Model training(Data Preprocessing and Model Building)
+  5. Flask and IBM deployment output
