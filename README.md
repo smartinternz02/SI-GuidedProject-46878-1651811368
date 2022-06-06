@@ -8,3 +8,5 @@ This repository contains:
   4. Model training i.e.Data Preprocessing and Model Building(Phishing_Site_Detection_Project_Training.ipynb)
   5. Flask and IBM deployment output(IBM Deployment output.docx)
 
+Report Link: https://docs.google.com/document/d/1a-6bvx7AEFF70RtQZQoZx7cgGXh-O4h6/edit?usp=sharing&ouid=115817571842995669617&rtpof=true&sd=true
+Video Link: 
