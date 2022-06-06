@@ -1,5 +1,5 @@
 # SI-GuidedProject-46878-1651811368
-Project:*Detection of Phishing Websites from URLs using IBM Watson Studio*
+Project: *Detection of Phishing Websites from URLs using IBM Watson Studio*.
 This is a guided project repository of *Srushti Prashant Shintre 19BCE10432 (VIT BHOPAL)*.
 This repository contains:
   1. Flask app
