@@ -5,7 +5,7 @@ This repository contains:
   1. Flask app (Flask app)
   2. Dataset used for the project (Data Set)
   3. IBM Deployment (IBM Cloud)
-  4. Model training i.e.Data Preprocessing and Model Building (Model Building)
+  4. Model training i.e.Data Preprocessing and Model Building (Model building)
   5. Flask and IBM deployment output (IBM Deployment output.pdf)
   6. Project Report(Group project report.pdf)
 
